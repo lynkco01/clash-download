@@ -1,7 +1,7 @@
 # Clash 各系统版本下载地址汇总
 Clash 是由 Go 语言开发的按规则进行代理线路自动分流的代理工具。[项目地址](https://github.com/Dreamacro/clash)  
 目前 Clash 是各个翻墙机场适配最广泛的客户端之一，也是[ClashNode](https://clashnode.xyz/)最推荐翻墙者使用的翻墙客户端。  
- Clash 的 GUI 图形化界面软件在 Windows、macOS、Android、iOS 等不同的操作系统上由不同的开发者着手维护，所以也拥有不同的名字，在用户界面和使用习惯上也略有差异。 ![Clash 客户端下载](https://clashnode.xyz/wp-content/uploads/2022/06/Clash-客户端下载.png)
+ Clash 的 GUI 图形化界面软件在 Windows、macOS、Android、iOS 等不同的操作系统上由不同的开发者着手维护，所以也拥有不同的名字，在用户界面和使用习惯上也略有差异。 ![Clash 客户端下载](https://clashnode.xyz/wp-content/uploads/2022/06/Clash-客户端下载.png)  
 Clash for Windows：Windows 系统最流行的翻墙代理客户端，官方不支持中文界面，有第三方汉化版本可供下载。  
 Clash for Mac：Mac 上最流行的 Clash 客户端名为 ClashX，也有另一款由 Clash for Windows 开发者开发的 Mac 版 Clash 客户端。  
 Clash for Android：在安卓系统上，Clash 就叫 Clash ，使用方式支持一键导入或复制订阅链接导入。  
