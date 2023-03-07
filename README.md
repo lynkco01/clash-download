@@ -14,7 +14,7 @@ Clash for iOS ：Clash 在 iOS 客户端名为 Stash ，付费软件，需要进
 
 ## 各平台 Clash 下载地址：
 
-我们汇集了一些 Clash 客户端官方、第三方下载地址：
+一些 Clash 客户端官方、第三方下载地址：
 - [Clash for Windows 官网](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
 - [ClashX for Mac 官网](https://github.com/yichengchen/clashX/releases)  
 - [Clash for Android 官网](https://github.com/Kr328/ClashForAndroid/releases)  
