@@ -18,7 +18,8 @@ Clash for iOS ：Clash 在 iOS 客户端名为 Stash ，付费软件，需要进
 - [Clash for Windows 官网](https://github.com/Fndroid/clash_for_windows_pkg/releases)  
 - [ClashX for Mac 官网](https://github.com/yichengchen/clashX/releases)  
 - [Clash for Android 官网](https://github.com/Kr328/ClashForAndroid/releases)  
-- [Clash for iOS 官网](https://apps.apple.com/app/stash/id1596063349)  
+- [Clash for iOS 官网](https://apps.apple.com/app/stash/id1596063349)
+
 更多翻墙客户端下载：[Windows/Mac/iOS/安卓 翻墙软件 Clash、SagerNet、v2rayNG、Shadowrocket、Stash、Quantumult X 国内下载地址](https://clashnode.xyz/vpn-download-clash-sagernet-v2rayng-shadowrocket/)  
 Clash 翻墙节点推荐：[2023 稳定好用的 Clash 翻墙机场梯子推荐](https://clashnode.xyz/clash-nodes-providers/)   
 提示：[ClashNode](https://clashnode.xyz/) 博客并非 Clash 客户端官网，本网站仅为广大翻墙者分享、推荐好用的免费、付费 Clash 节点/机场。
