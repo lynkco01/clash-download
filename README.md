@@ -23,9 +23,15 @@ Clash for iOS ：Clash 在 iOS 客户端名为 Stash ，付费软件，需要进
 由于 Clash 核心删库导致多个 Clash GUI 客户端也随之停更，上面多个地址已经失效，显示 404 了，目前更建议使用 Clash Meta 开源内核的客户端。  
 已安装的 Clash for Windows 仍然可以继续使用，只是会缺少后续版本更新。建议安装 Clash Verge，使用 Meta 开源内核。Clash Verge 同时也支持 macOS 系统。  
 
-Android 可继续使用 Clash for Android 3.0.3 测试版本，可从第三方渠道进行下载。Surfboard 是安卓更为舒心的选择，俗称冲浪板。  
+Android 可继续使用 Clash for Android 3.0.3 测试版本，可从第三方渠道进行下载。Surfboard 是安卓更为舒心的选择，俗称冲浪板。    
+官方源失效之后，可从第三方导航站进行软件下载。  
+ Clash 客户端导航站下载：  
+- [Clash Windows 导航](https://clashwindows.com/)  
+- [ClashX Mac 导航](https://clashmac.com/)  
+- [Clash Android 导航](https://clashandroid.com/)   
 
-sing-box 官方 GUI 客户端已经正式上线，支持 iOS、Android 和 macOS 系统，Windows 的客户端目前可通过命令行启动，GUI 正在开发中。
+寻找 Clash for Windows、ClashX 和 Clash for Android 替代方案的，可以留意一下 sing-box。sing-box 官方 GUI 客户端已经正式上线，支持 iOS、Android 和 macOS 系统，Windows 的客户端目前可通过命令行启动，GUI 正在开发中。
+使用开源内核的 Clash Verge 和 Clash Meta 安卓客户端、Surfboard 同样是不错的替代方案。
 - [Clash Verge 官网](https://clash-verge-rev.github.io/)  
 - [Clash Meta for Android 官网](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)  
 - [Clash for Android 第三方](https://clashx.pro/clash-for-android-download/)  
