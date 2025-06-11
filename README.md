@@ -39,5 +39,7 @@ Android 可继续使用 Clash Meta for Android 版本，改客户端已经恢复
 - [sing-box 官网](https://sing-box.sagernet.org/zh/clients/)
 
 更多翻墙客户端下载：[Windows/Mac/iOS/安卓 翻墙软件 Clash、v2rayNG、Shadowrocket、Stash、Quantumult X 国内下载地址](https://clashsub.net/download/)  
-Clash 翻墙节点推荐：[2024 稳定好用的机场推荐](https://clashsub.net/purchasing-subscribe/)   
-提示：[ClashSub](https://clashsub.net/) 博客并非 Clash 客户端官网，本网站仅为广大翻墙者分享、推荐好用的免费、付费 Clash 节点/机场。
+Clash 翻墙节点推荐：[2025 稳定好用的机场推荐](https://clashsub.net/purchasing-subscribe/)   
+提示：[ClashSub](https://clashsub.net/) 博客并非 Clash 客户端官网，本网站仅为广大翻墙者分享、推荐好用的免费、付费 Clash 节点/机场。  
+
+⚠️ 请警惕搜索引擎结果中的假冒网站，避免受骗！特别是必应搜索结果，一堆假网站，防不胜防。
